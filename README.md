@@ -1,5 +1,6 @@
 # SER Assurance - Insurance Claims and Repair Management Platform
 
+![logoser](https://github.com/user-attachments/assets/6d7d76e6-1902-4e68-8f06-b4b4eaf1f4d7)
 
 ## Overview
 SER Assurance is an integrated platform that bridges insurance claims management with repair services, creating a one-stop solution for:
