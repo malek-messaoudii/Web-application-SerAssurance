@@ -15,9 +15,13 @@ SER Assurance is an integrated platform that bridges insurance claims management
 
 ## Repository Structure
    Web-application-SerAssurance/
+   
    ├── insurance/ # React frontend application
+   
    ├── insuranceBack/ # Node.js backend server
+   
    ├── Dashboard-admin/Face-Clone-master # Admin dashboard
+   
    └── README.md
 
 
@@ -49,5 +53,7 @@ npm start
 ```
 
 ## Contact
+
 Messaoudi Malek - messaoudim946@gmail.com
+
 Project Link: https://github.com/malek-messaoudii/Web-application-SerAssurance.git
