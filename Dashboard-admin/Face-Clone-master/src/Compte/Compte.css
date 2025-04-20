@@ -1,0 +1,23 @@
+.table5{
+    position: fixed;
+    left : 400px;
+    top: 150px;
+}
+
+
+#p7{
+    position: fixed;
+    top : 280px;
+    left: 400px;
+}
+
+.p7 {
+    height: 40px;
+    width: 150px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 0px;
+    font-weight: bold;
+    color: white;
+    background:linear-gradient(10deg, rgb(16, 137, 211) 0%, rgb(14, 133, 157) 100%);
+}

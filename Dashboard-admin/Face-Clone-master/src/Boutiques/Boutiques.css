@@ -1,0 +1,36 @@
+.bleft{
+    padding: 25px 10px;
+    flex: 0.33;
+    position:fixed;
+    top: 40px;
+    width: 360px;
+}
+
+#d1{
+    background-color: rgb(201, 200, 200);
+    z-index: 1;
+    border-radius: 10px;
+}
+
+#tab { 
+    display: flex;
+    justify-content: end;
+    margin-top: 70px;
+    margin-right: 200px;
+}
+
+#btn1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-right: 430px;
+}
+
+.btn1 {
+    height: 50px;
+    border-radius: 20px;
+    background-color: #00668C;
+    padding: 10px;
+    font-weight: bolder;
+    color: white;
+}

@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+
+.z5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.carree1 {
+    width: 90%;
+    max-width: 500px;
+    background-color: rgba(113, 196, 239, 0.5);
+    border-radius: 30px;
+    box-shadow: 0 6px 6px rgba(0,102,140, 0.8);
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.tag {
+    margin-top: -20px;
+}
+
+.z3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.z6 {
+    height: 330px;
+    color: white;
+}
+
+.formgroup {
+    width: 100%;
+    padding: 20px;
+}
+
+
+
+.z9 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+}
+
+.bt111 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#bout {
+    width: 120px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+.lbl {
+    margin-right: 180px
+}
+
+#numeroSerie{
+    width: 250px;
+}
